@@ -1,24 +1,24 @@
-=== 1. Tamano del dataset ===
+1. Tamano del dataset
 Registros: 100000
 Sensores distintos: 40
 
-=== 2. Temperatura promedio por planta (C) ===
+2. Temperatura promedio por planta (C) 
 planta
 Planta_1    66.62
 Planta_2    66.53
 Planta_3    66.77
 Planta_4    66.67
 
-=== 3. Temperatura maxima: 104.99 C ===
+3. Temperatura maxima: 104.99 C 
 id_sensor     fecha_hora   planta  temperatura_c
      S023 01/09/26 22:23 Planta_3         104.99
      S019 02/09/26 13:11 Planta_2         104.99
      S014 02/09/26 15:23 Planta_2         104.99
      S030 02/09/26 16:02 Planta_3         104.99
 
-=== 4. Lecturas con temperatura > 85 C: 6954 ===
+4. Lecturas con temperatura > 85 C: 6954
 
-=== 5. Alertas por planta ===
+5. Alertas por planta 
 planta
 Planta_1    1737
 Planta_2    1708
@@ -26,4 +26,4 @@ Planta_3    1777
 Planta_4    1732
 Planta(s) con mas alertas (1777): Planta_3
 
-=== 6. Alertas exportadas a resultados/alertas.csv (6954 filas) ===
+6. Alertas exportadas a resultados/alertas.csv (6954 filas)
