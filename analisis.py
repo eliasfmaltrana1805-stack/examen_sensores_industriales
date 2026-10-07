@@ -1,6 +1,4 @@
 """Analisis de sensores industriales.
-
-Ejecutar desde la raiz del proyecto: python analisis.py
 """
 from pathlib import Path
 
